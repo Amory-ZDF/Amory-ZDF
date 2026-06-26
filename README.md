@@ -2,7 +2,7 @@
   <img src="./assets/ai-pm-orbit.svg" alt="AIPM AmoryZ typing intro" width="100%" />
 </p>
 
-<h1 align="center">AIPM AmoryZ</h1>
+<h1 align="center">AIPM AmoryZhang</h1>
 
 <p align="center">
   <b>AI Product Manager focused on Agents, AI tools, and robotics scenarios.</b><br />
