@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="./assets/ai-pm-orbit.svg" alt="AIPM AmoryZ animated intro" width="100%" />
+  <img src="./assets/ai-pm-orbit.svg" alt="AIPM AmoryZ typing intro" width="100%" />
 </p>
 
 <h1 align="center">AIPM AmoryZ</h1>
 
 <p align="center">
   <b>AI Product Manager focused on Agents, AI tools, and robotics scenarios.</b><br />
-  <sub>清晰定义问题，快速验证方案，把 AI 能力转化为可落地的产品体验。</sub>
+  <sub>专注 Agent、AI 工具与机器人场景，把 AI 能力转化为清晰、可用、可迭代的产品体验。</sub>
 </p>
 
 <p align="center">
@@ -17,45 +17,59 @@
 
 ---
 
-## About Me
+## About Me｜关于我
 
-Hi, I’m **Amory Zhang**, an AI Product Manager building at the intersection of **user needs, model capabilities, and product execution**.
+Hi, I’m **Amory Zhang**, an AI Product Manager working at the intersection of **user needs, model capabilities, and product execution**.  
+你好，我是 **Amory Zhang**，一名 AI 产品经理，关注如何把**用户需求、模型能力与产品落地**连接起来。
 
-I care about products that are not only impressive in demo, but also clear in scenario, stable in workflow, and measurable after launch.
+I care about AI products that are not just impressive in demos, but clear in scenario, stable in workflow, and measurable after launch.  
+我更关注那些不只是在 Demo 中惊艳，而是在真实场景里**目标清晰、流程稳定、结果可衡量**的 AI 产品。
 
-- **AI Product Intern @ Kuaishou** — worked on AI product research, requirement analysis, experience iteration, and cross-functional collaboration.
-- **AI Robotics Product Intern** — focused on robotics scenarios, human-machine interaction, task flows, and productizing intelligent capabilities.
-- **Builder mindset** — comfortable turning ideas into PRDs, prototypes, workflows, and early-stage product systems.
-- **AI-native focus** — Agents, AI tools, RAG, prompt workflows, product evaluation, and badcase-driven iteration.
+- **AI Product Intern @ Kuaishou** — worked on AI product research, requirement analysis, experience iteration, and cross-functional collaboration.  
+  **快手 AI 产品经理实习** —— 参与 AI 产品调研、需求分析、体验迭代与跨团队协作。
+
+- **AI Robotics Product Intern** — focused on robotics scenarios, human-machine interaction, task flows, and productizing intelligent capabilities.  
+  **AI 机器人产品经理实习** —— 关注机器人场景、人机交互、任务流程与智能能力产品化。
+
+- **Builder mindset** — able to move from idea to PRD, prototype, workflow, feedback, and iteration.  
+  **Builder 思维** —— 能从想法推进到 PRD、原型、工作流、反馈收集与持续迭代。
 
 ---
 
-## What I’m Good At
+## What I’m Good At｜我擅长什么
 
 | Area | Strength |
 | --- | --- |
-| Product Thinking | Identify real user pain points, define MVP boundaries, and prioritize with business value. |
-| AI Product Design | Translate LLM / Agent capabilities into usable workflows, interfaces, and evaluation loops. |
-| Execution | Move from idea → PRD → prototype → feedback → iteration with speed and clarity. |
-| Technical Communication | Communicate effectively with engineers using Python, FastAPI, React, TypeScript, and GitHub-based workflows. |
-| Robotics Scenarios | Think through physical-world constraints, interaction design, exceptions, and task completion. |
+| Product Thinking<br/>产品思维 | Find real user pain points, define MVP boundaries, and prioritize by value.<br/>识别真实用户痛点，定义 MVP 边界，并基于价值判断优先级。 |
+| AI Product Design<br/>AI 产品设计 | Translate LLM / Agent capabilities into usable workflows, interfaces, and evaluation loops.<br/>把 LLM / Agent 能力转化为可用的工作流、交互界面和评估闭环。 |
+| Execution<br/>执行落地 | Move fast from idea → PRD → prototype → feedback → iteration.<br/>快速完成从想法、需求文档、原型验证到反馈迭代的闭环。 |
+| Technical Communication<br/>技术沟通 | Communicate with engineers around Python, FastAPI, React, TypeScript, and GitHub workflows.<br/>能围绕 Python、FastAPI、React、TypeScript 和 GitHub 工作流与工程团队高效沟通。 |
+| Robotics Scenarios<br/>机器人场景 | Think through physical-world constraints, interaction design, exceptions, and task completion.<br/>理解真实物理场景中的约束、交互、异常处理和任务闭环。 |
 
 ---
 
-## Current Interests
+## Current Interests｜当前关注
 
-- Building practical **AI Agents & Tools**
-- Tracking fast-moving **AI product news and model updates**
-- Designing better **AI + Robotics** user experiences
-- Turning messy AI demos into clear, useful product systems
+- Building practical **AI Agents & Tools**  
+  构建真正有用的 **AI Agent 与 AI 工具**
+
+- Tracking fast-moving **AI product news and model updates**  
+  持续追踪 **AI 产品新闻与模型更新**
+
+- Designing better **AI + Robotics** user experiences  
+  设计更自然、更可靠的 **AI + 机器人** 用户体验
+
+- Turning messy AI demos into clear product systems  
+  把松散的 AI Demo 打磨成清晰、稳定、可迭代的产品系统
 
 ---
 
-## Contact
+## Contact｜联系我
 
-- WeChat: `zdf305921`
-- GitHub: [@Amory-ZDF](https://github.com/Amory-ZDF)
+- WeChat / 微信：`zdf305921`
+- GitHub：[@Amory-ZDF](https://github.com/Amory-ZDF)
 
 <p align="center">
-  <b>Building useful AI products, one clear workflow at a time.</b>
+  <b>Building useful AI products, one clear workflow at a time.</b><br />
+  <sub>用清晰的工作流，构建真正有用的 AI 产品。</sub>
 </p>
